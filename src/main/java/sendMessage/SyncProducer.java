@@ -8,7 +8,7 @@ import org.apache.rocketmq.remoting.common.RemotingHelper;
 /**
  * @author gaoayang
  * create by gaoyang on 2020/6/16
- * 异步发送
+ * 同步发送
  */
 public class SyncProducer {
     public static void main(String[] args) throws Exception {

@@ -25,6 +25,5 @@ public class OneWayProducer {
 
         }
         producer.shutdown();
-
     }
 }

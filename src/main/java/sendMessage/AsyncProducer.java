@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @author gaoayang
  * create by gaoyang on 2020/6/16
- * 消息发送
+ * 异步消息发送
  */
 public class AsyncProducer {
     public static void main(String[] args) throws Exception {
